@@ -12,5 +12,5 @@
 <br>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondo-akihiro-git&show_icons=true&layout=compact" />
+  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondo-akihiro-git&show_icons=true&layout=compact" />
 </p>
