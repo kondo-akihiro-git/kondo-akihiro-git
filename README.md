@@ -14,3 +14,9 @@
 <p align="left"> 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondo-akihiro-git&show_icons=true&layout=compact" />
 </p>
+
+主な開発<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-blazor-lineLocation)](https://github.com/kondo-akihiro-git/project-blazor-lineLocation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-Flask-SkillSheet)](https://github.com/kondo-akihiro-git/project-Flask-SkillSheet)
+
