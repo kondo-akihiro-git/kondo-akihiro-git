@@ -19,4 +19,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-blazor-lineLocation)](https://github.com/kondo-akihiro-git/project-blazor-lineLocation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-Flask-SkillSheet)](https://github.com/kondo-akihiro-git/project-Flask-SkillSheet)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=practice-Bottle-ClientList)](https://github.com/kondo-akihiro-git/practice-Bottle-ClientList)
