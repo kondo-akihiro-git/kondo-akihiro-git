@@ -21,3 +21,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-Flask-SkillSheet)](https://github.com/kondo-akihiro-git/project-Flask-SkillSheet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=practice-Bottle-ClientList)](https://github.com/kondo-akihiro-git/practice-Bottle-ClientList)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-Vue-AwsLearning)](https://github.com/kondo-akihiro-git/project-Vue-AwsLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kondo-akihiro-git&repo=project-document-PartnerReminder)](https://github.com/kondo-akihiro-git/project-document-PartnerReminder)
+
+
